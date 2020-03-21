@@ -4,3 +4,4 @@
 #include <algorithm>
 #include <string>
 using namespace std;
+vector <string> m = {"abc", "def","ghi"};
