@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E654467622EC7DF00026EB34 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E654467522EC7DF00026EB34 /* main.cpp */; };
+		E6E2B67B22EE4D4400286DC4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E6E2B67A22EE4D4400286DC4 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		E654467022EC7DF00026EB34 /* CopyFiles */ = {
+		E6E2B66822EDC03300286DC4 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,28 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E654467222EC7DF00026EB34 /* 数据结构测试 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数据结构测试"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E654467522EC7DF00026EB34 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		E654467D22EC7E130026EB34 /* 编程规范和范例.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "编程规范和范例.pdf"; sourceTree = "<group>"; };
-		E654467E22EC7E130026EB34 /* Chap3-2018-new.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chap3-2018-new.ppt"; sourceTree = "<group>"; };
-		E654467F22EC7E130026EB34 /* chap10 内部排序（ZJ-GJ）.PPT */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chap10 内部排序（ZJ-GJ）.PPT"; sourceTree = "<group>"; };
-		E654468022EC7E130026EB34 /* Icon */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Icon"; sourceTree = "<group>"; };
-		E654468122EC7E130026EB34 /* chapter11-backtracking(2018).ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chapter11-backtracking(2018).ppt"; sourceTree = "<group>"; };
-		E654468222EC7E130026EB34 /* Chap5-ZJ-2018.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chap5-ZJ-2018.ppt"; sourceTree = "<group>"; };
-		E654468322EC7E130026EB34 /* chap6(2017)-heap and heap sort.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chap6(2017)-heap and heap sort.ppt"; sourceTree = "<group>"; };
-		E654468422EC7E130026EB34 /* ~$chap10 内部排序（ZJ-GJ）.PPT */ = {isa = PBXFileReference; lastKnownFileType = file; path = "~$chap10 内部排序（ZJ-GJ）.PPT"; sourceTree = "<absolute>"; };
-		E654468522EC7E130026EB34 /* chap2-2018.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chap2-2018.ppt"; sourceTree = "<group>"; };
-		E654468622EC7E130026EB34 /* ~$Chap6-ZJ--2018.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "~$Chap6-ZJ--2018.ppt"; sourceTree = "<absolute>"; };
-		E654468722EC7E130026EB34 /* ~$Chap3-2018-new.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "~$Chap3-2018-new.ppt"; sourceTree = "<absolute>"; };
-		E654468822EC7E130026EB34 /* chap7（ZJ-GJ）.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "chap7（ZJ-GJ）.ppt"; sourceTree = "<group>"; };
-		E654468922EC7E130026EB34 /* Union-Find(2018).ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Union-Find(2018).ppt"; sourceTree = "<group>"; };
-		E654468A22EC7E130026EB34 /* ~$chap7（ZJ-GJ）.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "~$chap7（ZJ-GJ）.ppt"; sourceTree = "<absolute>"; };
-		E654468B22EC7E130026EB34 /* Chap6-ZJ--2018.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chap6-ZJ--2018.ppt"; sourceTree = "<group>"; };
-		E654468C22EC7E130026EB34 /* Chap4-ZJ-2018.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Chap4-ZJ-2018.ppt"; sourceTree = "<group>"; };
+		E6E2B66A22EDC03300286DC4 /* 数据结构测试3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数据结构测试3"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E6E2B67A22EE4D4400286DC4 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E654466F22EC7DF00026EB34 /* Frameworks */ = {
+		E6E2B66722EDC03300286DC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -54,119 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E654466922EC7DF00026EB34 = {
+		E6E2B66122EDC03300286DC4 = {
 			isa = PBXGroup;
 			children = (
-				E654467C22EC7E130026EB34 /* 数据结构课间 */,
-				E654467422EC7DF00026EB34 /* 数据结构测试 */,
-				E654467322EC7DF00026EB34 /* Products */,
+				E6E2B66C22EDC03300286DC4 /* 数据结构测试3 */,
+				E6E2B66B22EDC03300286DC4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E654467322EC7DF00026EB34 /* Products */ = {
+		E6E2B66B22EDC03300286DC4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E654467222EC7DF00026EB34 /* 数据结构测试 */,
+				E6E2B66A22EDC03300286DC4 /* 数据结构测试3 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E654467422EC7DF00026EB34 /* 数据结构测试 */ = {
+		E6E2B66C22EDC03300286DC4 /* 数据结构测试3 */ = {
 			isa = PBXGroup;
 			children = (
-				E654467522EC7DF00026EB34 /* main.cpp */,
+				E6E2B67A22EE4D4400286DC4 /* main.cpp */,
 			);
-			path = "数据结构测试";
-			sourceTree = "<group>";
-		};
-		E654467C22EC7E130026EB34 /* 数据结构课间 */ = {
-			isa = PBXGroup;
-			children = (
-				E654467D22EC7E130026EB34 /* 编程规范和范例.pdf */,
-				E654467E22EC7E130026EB34 /* Chap3-2018-new.ppt */,
-				E654467F22EC7E130026EB34 /* chap10 内部排序（ZJ-GJ）.PPT */,
-				E654468022EC7E130026EB34 /* Icon */,
-				E654468122EC7E130026EB34 /* chapter11-backtracking(2018).ppt */,
-				E654468222EC7E130026EB34 /* Chap5-ZJ-2018.ppt */,
-				E654468322EC7E130026EB34 /* chap6(2017)-heap and heap sort.ppt */,
-				E654468422EC7E130026EB34 /* ~$chap10 内部排序（ZJ-GJ）.PPT */,
-				E654468522EC7E130026EB34 /* chap2-2018.ppt */,
-				E654468622EC7E130026EB34 /* ~$Chap6-ZJ--2018.ppt */,
-				E654468722EC7E130026EB34 /* ~$Chap3-2018-new.ppt */,
-				E654468822EC7E130026EB34 /* chap7（ZJ-GJ）.ppt */,
-				E654468922EC7E130026EB34 /* Union-Find(2018).ppt */,
-				E654468A22EC7E130026EB34 /* ~$chap7（ZJ-GJ）.ppt */,
-				E654468B22EC7E130026EB34 /* Chap6-ZJ--2018.ppt */,
-				E654468C22EC7E130026EB34 /* Chap4-ZJ-2018.ppt */,
-			);
-			name = "数据结构课间";
-			path = "../2018考研用过的/数据结构课间";
+			path = "数据结构测试3";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E654467122EC7DF00026EB34 /* 数据结构测试 */ = {
+		E6E2B66922EDC03300286DC4 /* 数据结构测试3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E654467922EC7DF00026EB34 /* Build configuration list for PBXNativeTarget "数据结构测试" */;
+			buildConfigurationList = E6E2B67122EDC03300286DC4 /* Build configuration list for PBXNativeTarget "数据结构测试3" */;
 			buildPhases = (
-				E654466E22EC7DF00026EB34 /* Sources */,
-				E654466F22EC7DF00026EB34 /* Frameworks */,
-				E654467022EC7DF00026EB34 /* CopyFiles */,
+				E6E2B66622EDC03300286DC4 /* Sources */,
+				E6E2B66722EDC03300286DC4 /* Frameworks */,
+				E6E2B66822EDC03300286DC4 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "数据结构测试";
-			productName = "数据结构测试";
-			productReference = E654467222EC7DF00026EB34 /* 数据结构测试 */;
+			name = "数据结构测试3";
+			productName = project01;
+			productReference = E6E2B66A22EDC03300286DC4 /* 数据结构测试3 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E654466A22EC7DF00026EB34 /* Project object */ = {
+		E6E2B66222EDC03300286DC4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1030;
+				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "萧芊牧";
 				TargetAttributes = {
-					E654467122EC7DF00026EB34 = {
+					E6E2B66922EDC03300286DC4 = {
 						CreatedOnToolsVersion = 10.3;
 					};
 				};
 			};
-			buildConfigurationList = E654466D22EC7DF00026EB34 /* Build configuration list for PBXProject "数据结构测试" */;
+			buildConfigurationList = E6E2B66522EDC03300286DC4 /* Build configuration list for PBXProject "数据结构测试3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = E654466922EC7DF00026EB34;
-			productRefGroup = E654467322EC7DF00026EB34 /* Products */;
+			mainGroup = E6E2B66122EDC03300286DC4;
+			productRefGroup = E6E2B66B22EDC03300286DC4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E654467122EC7DF00026EB34 /* 数据结构测试 */,
+				E6E2B66922EDC03300286DC4 /* 数据结构测试3 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E654466E22EC7DF00026EB34 /* Sources */ = {
+		E6E2B66622EDC03300286DC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E654467622EC7DF00026EB34 /* main.cpp in Sources */,
+				E6E2B67B22EE4D4400286DC4 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E654467722EC7DF00026EB34 /* Debug */ = {
+		E6E2B66F22EDC03300286DC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -225,7 +184,7 @@
 			};
 			name = Debug;
 		};
-		E654467822EC7DF00026EB34 /* Release */ = {
+		E6E2B67022EDC03300286DC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -277,17 +236,19 @@
 			};
 			name = Release;
 		};
-		E654467A22EC7DF00026EB34 /* Debug */ = {
+		E6E2B67222EDC03300286DC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		E654467B22EC7DF00026EB34 /* Release */ = {
+		E6E2B67322EDC03300286DC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -296,25 +257,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E654466D22EC7DF00026EB34 /* Build configuration list for PBXProject "数据结构测试" */ = {
+		E6E2B66522EDC03300286DC4 /* Build configuration list for PBXProject "数据结构测试3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E654467722EC7DF00026EB34 /* Debug */,
-				E654467822EC7DF00026EB34 /* Release */,
+				E6E2B66F22EDC03300286DC4 /* Debug */,
+				E6E2B67022EDC03300286DC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E654467922EC7DF00026EB34 /* Build configuration list for PBXNativeTarget "数据结构测试" */ = {
+		E6E2B67122EDC03300286DC4 /* Build configuration list for PBXNativeTarget "数据结构测试3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E654467A22EC7DF00026EB34 /* Debug */,
-				E654467B22EC7DF00026EB34 /* Release */,
+				E6E2B67222EDC03300286DC4 /* Debug */,
+				E6E2B67322EDC03300286DC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E654466A22EC7DF00026EB34 /* Project object */;
+	rootObject = E6E2B66222EDC03300286DC4 /* Project object */;
 }
